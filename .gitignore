@@ -1,0 +1,9 @@
+*.tmp
+.DS_Store
+tools
+templates
+modes
+libraries
+examples
+*.sublime-*
+build-tmp
